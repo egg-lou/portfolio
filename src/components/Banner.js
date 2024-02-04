@@ -83,15 +83,17 @@ export const Banner = () => {
                                         </span>
                                     </h1>
                                     <p>
-                                        An aspiring Full Stack and Cloud
-                                        Engineer, passionate about creating
-                                        seamless, scalable solutions. Explore my
-                                        projects to see how I bridge the gap
-                                        between front-end and back-end
-                                        development, coupled with expertise in
-                                        cloud computing. Join me on the journey
-                                        of building versatile and efficient
-                                        applications in the cloud environment.
+                                        An aspiring
+                                        Full Stack, Cloud, and DevOps Engineer,
+                                        dedicated to crafting seamless and
+                                        scalable solutions. Explore my projects
+                                        to witness the synergy between front-end
+                                        and back-end development, enhanced by
+                                        robust DevOps practices. From cloud
+                                        infrastructure to deployment pipelines,
+                                        join me in the exciting journey of
+                                        building and optimizing applications for
+                                        efficiency and reliability.
                                     </p>
                                     <a href="mailto:miguel.rafaellouie2003@gmail.com">
                                         <button>
